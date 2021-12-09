@@ -1,6 +1,7 @@
 ---
 title: Galabear
 role: undergraduate student
+avatar_filename: polar_bear_-_alaska_-cropped-.jpg
 bio: I am an undergraduate student majoring mathematics at Peking University.
 interests: []
 social:
