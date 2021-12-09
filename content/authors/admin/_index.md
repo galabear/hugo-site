@@ -15,9 +15,9 @@ education:
   courses:
     - course: Undergraduate
       institution: Peking University
-      year: ""
+      year: 2020
     - institution: Beijing National Day School
-      year: ""
+      year: 2017
       course: High School
 email: ""
 superuser: true
