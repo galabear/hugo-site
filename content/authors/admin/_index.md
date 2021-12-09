@@ -1,13 +1,10 @@
 ---
 title: Galabear
-role: undergraduate student
-avatar_filename: polar_bear_-_alaska_-cropped-.jpg
-bio: I am an undergraduate student majoring mathematics at Peking University.
+role: Undergraduate student
+avatar_filename: avatar.jpg
+bio: Let's learn some new interesting things!
 interests: []
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: yanglv-pku@gmail.com
+social: []
 organizations:
   - name: Peking Univerisity
     url: www.pku.edu.cn
@@ -23,4 +20,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am an undergraduate student majoring mathematics at Peking University. I am interested in Mathematics, Artificial Intelligence, and Computational neuroscience.
+I am an undergraduate student majoring mathematics at Peking University. I am interested in Mathematics, Artificial Intelligence and Computational neuroscience.
